@@ -5,3 +5,5 @@ print("You can compute Pi here with monte carlo")
 
 print("OK")
 
+print("Let's do it")
+
