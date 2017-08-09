@@ -18,7 +18,7 @@ def main():
 
     # two randoms [0, 1)
     for _ in range(NUM_SAMPLING):
-        x = rd.random()
+	x = rd.random()
         y = rd.random()
         d = x**2 + y**2
         if d <= 1.0:
